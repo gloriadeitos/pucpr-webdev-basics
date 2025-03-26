@@ -8,8 +8,8 @@
   <img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/img/gloriadeitos-logo.png" alt="gloriadeitos-logo" height="100">
 </p>
 
-**Disciplina:** Fundamentos de Programação Web
-**Curso:** Análise e Desenvolvimento de Sistemas
+**Disciplina:** Fundamentos de Programação Web <br>
+**Curso:** Análise e Desenvolvimento de Sistemas <br>
 **Instituição:** Pontifícia Universidade Católica do Paraná (PUC-PR) - Brasil  
 
 <br>
