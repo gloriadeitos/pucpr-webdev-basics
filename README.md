@@ -1,8 +1,19 @@
-#### Glória Maria Deitos Gomes da Silva <br> Última atualização em: 02.Dezembro.2024
+#### Glória Maria Deitos Gomes da Silva <br> 02.Dezembro.2024
 
----
+# pucpr-webdev-basics
 
-#### PUCPR - Fundamentos de Programação Web - Dezembro 2024
+<p align="center">
+  <img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/img/pucpr.png" alt="ufpr" height="100">
+  <img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/img/ads.png" alt="eng-carto-2" height="100">
+  <img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/img/gloriadeitos-logo.png" alt="gloriadeitos-logo" height="100">
+</p>
+
+**Disciplina:** Fundamentos de Programação Web
+**Curso:** Análise e Desenvolvimento de Sistemas
+**Instituição:** Pontifícia Universidade Católica do Paraná (PUC-PR) - Brasil  
+
+<br>
+
 ## Site Front-End - Atividade Somativa 2
 
 ### Descrição da Atividade
