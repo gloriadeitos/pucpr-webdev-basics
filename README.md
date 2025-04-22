@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/img/pucpr.png" alt="ufpr" height="100">
-  <img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/img/ads-white.png" alt="eng-carto-2" height="100">
+  <img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/img/octacore.png" alt="octacore" height="100">
   <img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/img/gloriadeitos-logo.png" alt="gloriadeitos-logo" height="100">
 </p>
 
@@ -94,3 +94,46 @@ Além dos arquivos do site, será disponibilizado um vídeo de até 5 minutos ex
 ### Entrega:
 - Arquivo compactado (.ZIP) com todos os arquivos do site.
 - Link do vídeo (.MP4) de apresentação não listado no YouTube.
+
+---
+## 🎥Vídeos de entrega
+
+<table style="width: 600px;">
+  <tr>
+    <td align="center" width="80" style="padding-top: 12px;">
+      <a href="https://youtu.be/Ghj1PP22Ewc">
+        <img src="https://campusmap.ufpr.br/dev/github/imagens/youtube.png" />
+      </a>
+    </td>
+    <td valign="top" style="min-height: 100px;">
+      <h4>Atividade Somativa 1</h4>
+      <p>Vídeo demonstrando os resultados e entregas da primeira atividade.</p>
+      <a href="https://youtu.be/Ghj1PP22Ewc" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Vídeo-FF0000?style=for-the-badge" alt="Ver Vídeo">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 600px;">
+  <tr>
+    <td align="center" width="80" style="padding-top: 12px;">
+      <a href="https://youtu.be/kpdI_28QEo4">
+        <img src="https://campusmap.ufpr.br/dev/github/imagens/youtube.png" />
+      </a>
+    </td>
+    <td valign="top" style="min-height: 100px;">
+      <h4>Atividade Somativa 2</h4>
+      <p>Vídeo apresentando os resultados e desenvolvimento da segunda atividade.</p>
+      <a href="https://youtu.be/kpdI_28QEo4" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Vídeo-FF0000?style=for-the-badge" alt="Ver Vídeo">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 📄 Enunciados
+Dentro da pasta **Enunciados**, estão os enunciados detalhados de cada uma das atividades que compõem este projeto.
