@@ -10,7 +10,7 @@
 
 **Disciplina:** Fundamentos de Programação Web <br>
 **Curso:** Análise e Desenvolvimento de Sistemas <br>
-**Instituição:** Pontifícia Universidade Católica do Paraná (PUC-PR) - Brasil  
+**Instituição:** Pontifícia Universidade Católica do Paraná (PUCPR) - Brasil  
 
 <br>
 
